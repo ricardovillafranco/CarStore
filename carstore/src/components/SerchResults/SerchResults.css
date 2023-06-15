@@ -1,0 +1,32 @@
+section {
+   width: 100%;
+    font-size: x-large;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: 200;
+    color:azure;
+    padding-bottom: 24px;
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 300px;
+    box-sizing: border-box;
+    
+}
+.title {
+    border-bottom: 4px solid azure; 
+}
+.CardContainer {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+
+
+    
+  
+    
+    
+}

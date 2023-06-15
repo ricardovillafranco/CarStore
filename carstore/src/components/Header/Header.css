@@ -1,0 +1,36 @@
+header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 100%;
+    
+
+}
+nav{
+    color: aliceblue;
+    width: 100%;
+    position: absolute;
+    
+    
+    display: flex;
+    flex-direction: row-reverse;
+
+    
+}
+
+ul{
+    width: 50%;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+li{
+    font-size: x-large;
+
+
+
+}
