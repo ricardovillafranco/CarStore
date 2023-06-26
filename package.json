@@ -1,0 +1,19 @@
+{
+  "name": "carstore",
+  "version": "1.0.0",
+  "description": "This is website where you can connect with people and dealers to sell or buy a car, truck, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardovillafranco/CarStore.git"
+  },
+  "author": "ricardo Thomas\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[R\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CLopez Martinez <ricardo.t.villafranco\u001b\u0000\u001b\u001b\u001b\u0000\u001b\u0000\u001b@\u0000\u001b\u0000\u001b\u001b6\u001b4\u001b[C\u001b6\u001b4\u001b[C\u001b6\u001b4\u001b6\u001b4\u001b[\u001b\u001b[C\u001b[Cco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardovillafranco/CarStore/issues"
+  },
+  "homepage": "https://github.com/ricardovillafranco/CarStore#readme"
+}

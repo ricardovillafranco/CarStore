@@ -16,3 +16,20 @@
     border-radius: 25px;
     
 }
+
+.fa-solid  {
+    color: red;
+    scale: 1.5;
+    padding: 40px 0;
+    
+
+    
+
+}
+
+.fa-regular {
+    scale: 1.5;
+    padding: 40px 0;
+    
+    
+}
